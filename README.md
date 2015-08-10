@@ -1,5 +1,5 @@
 # Resume
 My Resume
 
-written in $Latex$ and used resume document style package
+written in LaTex and used resume document style package
 
